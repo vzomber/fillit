@@ -1,6 +1,6 @@
 # Fillit
 
-Realization of "brute force" as a little game. It tries to put all figures in as small area as possible.
+Realization of "brute force" algorithm as a little game. It tries to put all figures in as small area as possible.
 It needs a file with tetraminos like this:
 
 <img src="https://github.com/Vencetto/fillit/blob/master/screen_1.png" width="400" height="600"/>
