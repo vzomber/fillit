@@ -11,4 +11,4 @@ It needs a file with tetraminos like this:
 
 and you will have something like that
 
-<img src="https://github.com/Vencetto/fillit/blob/master/screen_2.png" width="400" height="170" />
+<img src="https://github.com/Vencetto/fillit/blob/master/screen_2.png" width="400" height="150" />
